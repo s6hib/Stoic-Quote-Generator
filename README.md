@@ -1,6 +1,6 @@
 # Stoic Quote Generator
 
-This is a simple C++ program that generates a random Stoic quote when run. The quotes are read from a text file and stored in a vector, from which a random quote is selected and printed to the console.
+Combining my interest of philosophy and computer science, I made a simple C++ program that generates a random Stoic quote when run. The quotes are read from a text file and stored in a vector, from which a random quote is selected and printed to the console. 
 
 ## Getting Started
 
